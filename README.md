@@ -4,7 +4,7 @@
 
  &nbsp; &nbsp; &nbsp; &nbsp;This python program uses requests module to interact with the website. When the target url and the parameters are given it checks for the valid command separator symbol and passes the "whoami" command to check whether the website is vulnerable to command injection. It also obfuscates the commands to bypass if the command is blacklisted by the website.
 
-    usage:  cmd_inj.py [-h] -u URL -p PARAM -m METHOD [-w WHITELIST_CHARACTER]
+    usage:  command_injection.py [-h] -u URL -p PARAM -m METHOD [-w WHITELIST_CHARACTER]
 
 
 ## optional arguments:

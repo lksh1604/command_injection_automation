@@ -7,7 +7,7 @@
     usage:  command_injection.py [-h] -u URL -p PARAM -m METHOD [-w WHITELIST_CHARACTER]
 
 
-## optional arguments:
+## Optional Arguments:
 
 
       -h, --help                  show this help message and exit
